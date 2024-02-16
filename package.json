@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-covalience-typescript",
+  "name": "eslint-config-ts-js",
   "version": "1.0.0",
   "description": "Shareable ESLint config for Javascript and Typescript",
   "main": "index.js",
